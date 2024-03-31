@@ -3919,8 +3919,9 @@ input, select, textarea {
 
 		}
 
+		
 		.container {
-			display: flex; /* Use Flexbox */
+			display: flex;
 		}
 
 		.column {
@@ -3928,10 +3929,19 @@ input, select, textarea {
 		}
 
 		.narrow {
-			flex: 1; /* Takes up less space */
+			flex: 20%;
 			padding-top:35px;
 		}
 
 		.wide {
-			flex: 4; /* Takes up more space */
+			flex: 80%;
 		}
+
+		.hide-on-mobile {
+			@media screen and (max-width: 736px) {
+				display:none;
+			}
+		}
+
+		
+		
