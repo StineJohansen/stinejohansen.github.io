@@ -1920,7 +1920,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #18453B !important;
+			color: #1a1a1a !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -2322,7 +2322,7 @@ input, select, textarea {
 		border-radius: 0.25em;
 		border: none;
 		border: solid 1px rgba(255, 255, 255, 0.15);
-		color: #18453B;
+		color: #1a1a1a;
 		display: block;
 		outline: 0;
 		padding: 0 1em;
@@ -2360,7 +2360,7 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #18453B;
+			color: #1a1a1a;
 			background: #444444;
 		}
 
@@ -3169,7 +3169,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #18453B;
+			color: #1a1a1a;
 			font-size: 1em;
 			font-weight: bold;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -3433,7 +3433,7 @@ input, select, textarea {
 						}
 
 						#header > nav > ul > li a.active {
-							color: #18453B;
+							color: #1a1a1a;
 						}
 
 		@media screen and (max-width: 736px) {
@@ -3772,14 +3772,14 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #18453B;
+				background: #1a1a1a;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #18453B, #e4e4e4);
-				background-image: -webkit-linear-gradient(to right, #18453B, #e4e4e4);
-				background-image: -ms-linear-gradient(to right, #18453B, #e4e4e4);
-				background-image: linear-gradient(to right, #18453B, #e4e4e4);
+				background-image: -moz-linear-gradient(to right, #1a1a1a, #e4e4e4);
+				background-image: -webkit-linear-gradient(to right, #1a1a1a, #e4e4e4);
+				background-image: -ms-linear-gradient(to right, #1a1a1a, #e4e4e4);
+				background-image: linear-gradient(to right, #1a1a1a, #e4e4e4);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
